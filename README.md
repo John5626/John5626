@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o João Victor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Atualmente, discente em **Engenharia de Computação** no CEFET-MG</h3>
 
 - 🌱 Atualmente eu estou aprendendo **Java e Redes de Computadores**
 
