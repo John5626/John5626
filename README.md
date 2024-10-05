@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o João Victor</h1>
 <h3 align="center">Atualmente, discente em Engenharia de Computação no CEFET-MG</h3>
 
-- 🌱 Estou aprendendo **Java e Desenvolvimento Web**
+- 🌱 Estou aprendendo **PHP e Desenvolvimento Web**
 
 - 💬 Me pergunte sobre **C, C++, Java, Estrutura de Dados**
 
