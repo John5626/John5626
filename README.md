@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo **PHP e Desenvolvimento Web**
 
-- 💬 Me pergunte sobre **C, C++, Java, Estrutura de Dados**
+- 💬 Me pergunte sobre **C, Java, Estrutura de Dados**
 
 - 📫 How to reach me **domingos192192+github@gmail.com**
 
