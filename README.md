@@ -57,26 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=domingos192192&show_icons=true&locale=pt-br" 
-    alt="Estatísticas do GitHub" 
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=domingos192192&show_icons=true&locale=pt-br&layout=compact" 
-    alt="Linguagens mais usadas" 
-    height="160"
-  />
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <p align="left">
